@@ -2,7 +2,7 @@
 
 MATLAB code for reproducing the numerical results in:
 
-> Z. Cheng, B. Zhao, C. Ouyang, and X. Zhang, "Optimal Uplink Pinching-Antenna Activation."
+> Z. Cheng and C. Ouyang, "Optimal Uplink Pinching-Antenna Activation."
 
 The code evaluates discrete pinching-antenna (PA) activation in an uplink
 multiuser pinching-antenna system. One PA location is selected from a finite

@@ -1,0 +1,13 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+
+# Simulation outputs and checkpoints
+results/*
+!results/.gitkeep
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
